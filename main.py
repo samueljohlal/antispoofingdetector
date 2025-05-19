@@ -2,4 +2,3 @@
 
 # data engineering
 # algorithm design
-# developing software
